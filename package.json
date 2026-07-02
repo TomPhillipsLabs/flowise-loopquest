@@ -1,0 +1,11 @@
+{
+  "name": "flowise-loopquest",
+  "version": "0.1.0",
+  "description": "Flowise tool node for LoopQuest — human-in-the-loop review for AI agents.",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/*.test.ts"
+  },
+  "keywords": ["flowise", "loopquest", "human-in-the-loop", "review", "ai", "langchain"],
+  "license": "MIT"
+}
